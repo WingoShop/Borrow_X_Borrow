@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "229887965069",
+    "project_id": "borrow-x-borrow",
+    "storage_bucket": "borrow-x-borrow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229887965069:android:7696f45c64641c11576fc4",
+        "android_client_info": {
+          "package_name": "com.nywangga.borrowxborrow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229887965069-58koa1jn0cnusnsmh1va3cd1hsfrf69t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaXJwLYxJBwYRAKg7OKFpH93Xf8eTi1-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229887965069-58koa1jn0cnusnsmh1va3cd1hsfrf69t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

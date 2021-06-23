@@ -1,0 +1,2 @@
+rootProject.name = "Borrow X Borrow"
+include ':app'
